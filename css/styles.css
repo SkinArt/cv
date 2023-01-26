@@ -66,6 +66,7 @@ h3{
 .me{
     width: 200px;
     height: 200px;
+    border-radius: 50%;
 }
 .skill-row{
     margin: 100px auto 100px auto  ;
